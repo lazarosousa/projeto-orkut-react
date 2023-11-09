@@ -99,7 +99,7 @@
    
  }
  
- .sidenav a:hover {
+ .sidenav :hover {
    color: #ED2590;
  }
 
@@ -108,8 +108,8 @@
   width: 30px;
   height: 30px;
   position: absolute;
-  left: 8%;
-  top: 55%;
+  left: 20%;
+  top: 60%;
   color: #ED2590;
 
  }
@@ -119,8 +119,8 @@
   width: 30px;
   height: 30px;
   position: absolute;
-  left: 8%;
-  top: 60.2%;
+  left: 20%;
+  top: 68%;
   color: #ED2590;
 
  }
@@ -130,8 +130,8 @@
   width: 30px;
   height: 30px;
   position: absolute;
-  left: 8%;
-  top: 65%;
+  left: 20%;
+  top: 75%;
   color: #ED2590;
 
  }
@@ -141,8 +141,8 @@
   width: 30px;
   height: 30px;
   position: absolute;
-  left: 8%;
-  top: 70.2%;
+  left: 20%;
+  top: 83%;
   color: #ED2590;
 
  }
@@ -152,8 +152,8 @@
   width: 30px;
   height: 30px;
   position: absolute;
-  left: 8%;
-  top: 74.7%;
+  left: 20%;
+  top: 90%;
   color: #ED2590;
 
  }
@@ -161,9 +161,9 @@
  .separador1 {
 
     position: absolute;
-    width: 15.2%;
-    left: 5%;
-    top: 53%;
+    width: 65%;
+    left: 18%;
+    top: 56%;
     border: 1px solid #D9E6F7;
  }
 
@@ -218,8 +218,8 @@
  .titulo-depoimentos {
 
    position: absolute;
-   left: 25%;
-   top: 89%;
+   left: 5%;
+   top: 4%;
 
    font-family: 'Roboto';
    font-style: normal;
@@ -234,39 +234,11 @@
 
  }
 
- .novas-amizades {
+ .titulo-depoimentos :hover {
 
-   position: absolute;
-   width: 50%;
-   height: 70%;
-   left: 23%;
-   top: 159%;
-   background: #FDFEFF;
-   border-radius: 20px;
-   box-shadow: 11px 8px 14px 1px rgba(49, 48, 48, 0.73);
+  color: #ED2590;
 
 }
-
-.titulo-amizades {
-
-   position: absolute;
-   left: 25%;
-   top: 161%;
-
-   font-family: 'Roboto';
-   font-style: normal;
-   font-weight: 700;
-   font-size: 20px;
-   line-height: 24px;
-
-   display: flex;
-   align-items: center;
-   letter-spacing: 0.2px;
-   color: #4B4B4B;
-
-}
-
-
 
  .amigos {
 
