@@ -1,5 +1,6 @@
-//import Login from "./components/pages/Login";
+import Login from "./components/pages/Login";
 import Perfil from "./components/pages/Perfil";
+import createProfile from "./components/pages/CreateProfile";
 import "./styles/login.css";
 import "./styles/global.css";
 import "./styles/reset.css";
