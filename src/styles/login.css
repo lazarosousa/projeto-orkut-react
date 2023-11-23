@@ -6,8 +6,7 @@
 }
 
 #field__main {
-    width: 69%;
-    height: 90vh;
+    height: 90%;
     display: inline-block;
     background-color: white;
     text-align: center;
@@ -51,7 +50,7 @@
     background-color: #ffffff;
     width: 27%;
     height: 90vh;
-    display: inline-flex;
+    display: inline;
     float: right;
     border-radius: 20px;
     align-self: center;
