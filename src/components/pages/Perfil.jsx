@@ -120,7 +120,7 @@ export default function Perfil() {
           
           <div className="main-middle">
             <section className="welcome">
-              <h2>Bem-vindo(a), birobirobiro</h2>
+              <h2>Bem-vindo(a), Lazaro Sousa</h2>
               <p><span>Sorte de hoje:</span> Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de
                 existir.</p>
               <div className="count-infos">
